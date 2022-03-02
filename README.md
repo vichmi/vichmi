@@ -8,8 +8,8 @@
 ### Connect with me:
 
 &nbsp;
-[![website](./img/globe-light.svg)](https://vichmi.free.bg/)
-[![website](./img/globe-dark.svg)](https://vichmi.free.bg/)
+[![website](./img/globe-light.svg)](https://vichmi.free.bg#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://vichmi.free.bg#gh-dark-mode-only)
 &nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
@@ -32,8 +32,6 @@
 
 <br />
 <br />
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>

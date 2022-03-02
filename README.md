@@ -1,9 +1,6 @@
 # Hi there, I'm Victor Tanov 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vichmi.free.bg/)
-
-
-## I'm a student and a freelancer!!
+## I'm a student and a freelancer!
 
 - 🌱 I’m currently learning python
 - ⚡ Fun fact: I love playing videogames
@@ -12,10 +9,10 @@
 
 [![website](./img/globe-light.svg)](https://vichmi.free.bg/)
 [![website](./img/globe-dark.svg)](https://vichmi.free.bg/)
-&nbsp;&nbsp;
+&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/victor.tanov#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/victor.tanov#gh-dark-mode-only)
 

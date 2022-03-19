@@ -11,8 +11,8 @@
 [![website](./img/globe-light.svg)](https://vichmi.free.bg#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://vichmi.free.bg#gh-dark-mode-only)
 &nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://bg.linkedin.com/in/victor-tanov-b2814b22a)
+[![website](./img/linkedin-dark.svg)](https://bg.linkedin.com/in/victor-tanov-b2814b22a)
 &nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/victor.tanov#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/victor.tanov#gh-dark-mode-only)

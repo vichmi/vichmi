@@ -2,7 +2,7 @@
 
 ## I'm a student and a freelancer!
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python at Softuni
 - ⚡ Fun fact: I love playing videogames
 
 ### Connect with me:

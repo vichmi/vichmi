@@ -2,7 +2,8 @@
 
 ## I am a student and a freelancer!
 
-- 🌱 I’m currently studying at Technical University of Sofia
+- 🎓 I'm studying Software Engineering at the Technical University of Sofia.
+- 🧑‍🏭 Currently working project: [Belot]([I'm studying Software Engineering at the Technical University of Sofia.](https://github.com/vichmi/belot))
 
 ### Connect with me:
 

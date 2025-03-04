@@ -8,9 +8,6 @@
 ### Connect with me:
 
 &nbsp;
-[![website](./img/globe-light.svg)](https://vichmi.free.bg#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://vichmi.free.bg#gh-dark-mode-only)
-&nbsp;
 [![website](./img/linkedin-light.svg)](https://bg.linkedin.com/in/victor-tanov-b2814b22a#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://bg.linkedin.com/in/victor-tanov-b2814b22a#gh-dark-mode-only)
 

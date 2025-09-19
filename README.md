@@ -1,6 +1,6 @@
 # Hi there, I'm Victor Tanov 👋 
 
-## I am a student and a freelancer!
+## I am a student and actively seeking job opportunities!
 
 - 🎓 I'm studying Software Engineering at the Technical University of Sofia.
 - 🧑‍🏭 Currently working project: [Meal-finder-ML](https://github.com/vichmi/Meal-finder-ML)

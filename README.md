@@ -27,13 +27,9 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="vichmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vichmi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<summary>GitHub Stats</summary>
+<img align="left" alt="vichmi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vichmi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="vichmi's Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichmi&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,kotlin&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [instagram]: https://instagram.com/victor.tanov
 [linkedin]: https://www.linkedin.com/in/victor-tanov-b2814b22a/

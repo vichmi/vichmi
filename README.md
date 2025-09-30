@@ -35,6 +35,5 @@
 
 </details>
 
-[website]: https://vichmi.free.bg/
 [instagram]: https://instagram.com/victor.tanov
 [linkedin]: https://www.linkedin.com/in/victor-tanov-b2814b22a/
